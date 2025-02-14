@@ -1,0 +1,139 @@
+.navbar {
+    position: relative;
+    z-index: 501;
+    min-height: 60px;
+    margin-bottom: 0;
+    background-color: #162752;
+    border: none;
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+
+
+.mainbar {
+    width: 100%;
+    padding: 5px 0;
+    text-align: center;
+     background-image: url(/assets/trungthu/trungthu.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+     border-bottom: 0px solid #fff; 
+}
+
+
+
+body {
+    background: #192057;
+    /* background: url(https://img3.thuthuatphanmem.vn/uploads/2019/09/11/background-tet-trung-thu_105459634.jpg); */
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+.bg-primary {
+    color: #fff;
+    /* background-color: #ad4105 !important; */
+    background-image: url(/assets/trungthu/pngtree-zhongyuan-festival-holiday-poster-illustration-kongming-lantern-png-image_28294.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.panel-danger>.panel-heading {
+    /* color: #a94442; */
+        text-shadow: 0 0 0.2em #0000ff, 0 0 0.2em #0000ff, 0 0 0.2em #0000ff;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+    background-image: url(/assets/trungthu/107916497-mid-autumn-festival-in-the-chinese-word.jpg?ver=6);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-weight: bold;
+}
+
+
+.panel-primary>.panel-heading {
+    color: #fff;
+        text-shadow: 0 0 0.2em #0000ff, 0 0 0.2em #0000ff, 0 0 0.2em #0000ff;
+    font-weight: bold;
+    /* background-color: #182a58; */
+    border-color: #182a58;
+    background-image: url(/assets/trungthu/107916497-mid-autumn-festival-in-the-chinese-word.jpg?ver=6);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.btn-primary {
+    color: #a67d7d;
+    
+    /* background-color: #e28637; */
+    /* border-color: #e28637; */
+    background-image: url(/assets/trungthu/pngtree-green-minimalist-mid-autumn-festival-background-png-image_391704.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: #fff;
+    /* font-weight: bold; */
+}
+.btn-primary {
+    color: #fff;
+    background-color: #4caf50;
+    border-color: #357ebd;
+}
+
+.panel-primary {
+    border-color: #223752;
+}
+.footer {
+    padding: 20px 0;
+    margin-top: 2em;
+    font-size: 12px;
+    background: #162752;
+    border-top: 7px solid #506599;
+}
+
+.output {
+    text-align: center;
+    color: #162752;
+}
+
+.modal-body {
+    position: relative;
+    padding: 20px;
+    /* background-color: azure; */
+    background-image: url(/assets/trungthu/istockphoto-589461740-612x612.jpg);
+    color: #000;
+    text-shadow: 0 0 0.2em #ffffff, 0 0 0.2em #ffffff, 0 0 0.2em #ffffff;
+
+    font-weight: bold;
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-size: 100% 100%; */
+    /* background-position: right bottom, left top; */
+}
+
+.modal-header {
+    padding: 15px;
+    border-bottom: 1px solid #e5e5e5;
+    min-height: 16.42857143px;
+    background-image: url(/assets/trungthu/top.png);
+     background-size: cover;
+     background-repeat: no-repeat; 
+    /* background-size: 100% 100%; */
+    color: #fff;
+}
+.modal-footer {
+    margin-top: 0px;
+    padding: 19px 20px 20px;
+    text-align: right;
+    border-top: 0px solid #e5e5e5;
+    background-image: url(/assets/trungthu/end.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
